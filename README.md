@@ -1,2 +1,2 @@
 # VibeCodingTest
-用于联系git和vibecoding
+用于练习git和vibecoding
